@@ -3,5 +3,45 @@
         "name": "Stickman Hook",
         "slug": "stickman-hook",
         "image": "/cache/data/image/game/stickman-hook/stickman-hook-m186x186.webp"
+    },
+    {
+        "name": "Tail Swing",
+        "slug": "tail-swing",
+        "image": "/cache/data/image/game/tail-swing/tail-swing-m186x186.webp"
+    },
+    {
+        "name": "Sausage Flip",
+        "slug": "sausage-flip",
+        "image": "/cache/data/image/game/sausage-flip/sausage-flip-m186x186.webp"
+    },
+    {
+        "name": "Swing Monkey",
+        "slug": "swing-monkey",
+        "image": "/cache/data/image/game/swing-monkey/swing-monkey-m186x186.webp"
+    },
+    {
+        "name": "Swing Star",
+        "slug": "swing-star",
+        "image": "/cache/data/image/game/swing-star/swing-star-m186x186.webp"
+    },
+    {
+        "name": "Spider-Man: Swing City",
+        "slug": "spider-man-swing-city",
+        "image": "/cache/data/image/game/spider-man-swing-city/spider-man-swing-city-m186x186.webp"
+    },
+    {
+        "name": "Gumball: Swing Out!",
+        "slug": "gumball-swing-out",
+        "image": "/cache/data/image/game/gumball-swing-out/gumball-swing-out-m186x186.webp"
+    },
+    {
+        "name": "Swing Soccer",
+        "slug": "swing-soccer",
+        "image": "/cache/data/image/game/swing-soccer/swing-soccer-m186x186.webp"
+    },
+    {
+        "name": "Ultimate Ninja Swing",
+        "slug": "ultimate-ninja-swing",
+        "image": "/cache/data/image/game/ultimate-ninja-swing/ultimate-ninja-swing-m186x186.webp"
     }
 ]
